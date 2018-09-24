@@ -1,0 +1,23 @@
+{
+  "name": "ld-resultset",
+  "description": "an RDF library graph navigation helper for node.js. Suitable for client and server side.",
+  "version": "0.18.0",
+  "engines": {
+    "node": ">=6.0"
+  },
+  "private": false,
+  "author": {
+    "name": "Tim BL",
+    "email": "timbl@w3.org"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timbl/ld-resultset.git"
+  },
+  "homepage": "http://github.com/timbl/ld-resultset",
+  "bugs": "http://github.com/timbl/ld-resultset/issues",
+  "dependencies": {
+    "rdflib": ">=0.18.0"
+  }
+}
